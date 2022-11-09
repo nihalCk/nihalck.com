@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/nihalck.com/static/css/main.4415405f.css",
-    "main.js": "/nihalck.com/static/js/main.d90e131e.js",
+    "main.css": "/nihalck.com/static/css/main.aaa4e956.css",
+    "main.js": "/nihalck.com/static/js/main.8160176d.js",
     "static/media/cv.pdf": "/nihalck.com/static/media/cv.fd8bb5dcd2d1422270ed.pdf",
     "static/media/me.png": "/nihalck.com/static/media/me.99e6bd3a1dcb4e6ebb88.png",
+    "static/media/portfolio5.png": "/nihalck.com/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/nihalck.com/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/nihalck.com/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/profile.png": "/nihalck.com/static/media/profile.697fcd0cb26048935200.png",
+    "static/media/portfolio1.jpg": "/nihalck.com/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/nihalck.com/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/nihalck.com/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/nihalck.com/index.html",
-    "main.4415405f.css.map": "/nihalck.com/static/css/main.4415405f.css.map",
-    "main.d90e131e.js.map": "/nihalck.com/static/js/main.d90e131e.js.map"
+    "main.aaa4e956.css.map": "/nihalck.com/static/css/main.aaa4e956.css.map",
+    "main.8160176d.js.map": "/nihalck.com/static/js/main.8160176d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4415405f.css",
-    "static/js/main.d90e131e.js"
+    "static/css/main.aaa4e956.css",
+    "static/js/main.8160176d.js"
   ]
 }
