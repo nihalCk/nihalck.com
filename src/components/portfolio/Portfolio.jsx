@@ -18,17 +18,17 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>MashoorMuneer-Portfolio</h3>
 
           <div className="portfolio__item-cta">
             <div>
-              <a href="#" className="btn">
+              <a href="https://nihalck.github.io/mashoormuneer.com/" className="btn">
                 Github
               </a>
             </div>
 
             <div>
-              <a href="#" className="btn btn-primary" target="_blank">
+              <a href="https://nihalck.github.io/mashoormuneer.com/" className="btn btn-primary" target="_blank">
                 Live Demo
               </a>
             </div>
@@ -39,12 +39,12 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>Musketeerleather-E-commerce</h3>
           <div className="portfolio__item-cta">
-            <a href="#" className="btn">
+            <a href="https://musketeerleather.com/" className="btn">
               Github
             </a>
-            <a href="#" className="btn btn-primary" target="_blank">
+            <a href="https://musketeerleather.com/" className="btn btn-primary" target="_blank">
               Live Demo
             </a>
           </div>
