@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nihalck.com/static/css/main.4415405f.css",
+    "main.js": "/nihalck.com/static/js/main.d90e131e.js",
+    "static/media/cv.pdf": "/nihalck.com/static/media/cv.fd8bb5dcd2d1422270ed.pdf",
+    "static/media/me.png": "/nihalck.com/static/media/me.99e6bd3a1dcb4e6ebb88.png",
+    "static/media/profile.png": "/nihalck.com/static/media/profile.697fcd0cb26048935200.png",
+    "index.html": "/nihalck.com/index.html",
+    "main.4415405f.css.map": "/nihalck.com/static/css/main.4415405f.css.map",
+    "main.d90e131e.js.map": "/nihalck.com/static/js/main.d90e131e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4415405f.css",
+    "static/js/main.d90e131e.js"
+  ]
+}
