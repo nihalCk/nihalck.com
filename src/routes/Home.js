@@ -3,12 +3,12 @@ import "../styles.css";
 
 import Header from "../components/Header/Header";
 import Nav from "../components/nav/nav";
-import About from "../components/about/AboutPage";
-import Experience from "../components/experience/ExperiencePage";
+// import About from "../components/about/AboutPage";
+// import Experience from "../components/experience/ExperiencePage";
 // import Services from "./components/services/Services";
-import Portfolio from "../components/portfolio/PortfolioPage";
-import Testimonials from "../components/testimonials/Testimonials";
-import Contact from "../components/contact/ContactPage";
+// import Portfolio from "../components/portfolio/PortfolioPage";
+// import Testimonials from "../components/testimonials/Testimonials";
+// import Contact from "../components/contact/ContactPage";
 import Footer from "../components/footer/Footer";
 
 export default function App() {
@@ -16,12 +16,12 @@ export default function App() {
     <>
       <Header />
       <Nav />
-      <About />
+      {/* <About />
       <Experience />
-      {/* <Services /> */}
+      {/* <Services /> 
       <Portfolio />
       <Testimonials />
-      <Contact />
+      <Contact /> */}
       <Footer />
     </>
     // <div className="App">
