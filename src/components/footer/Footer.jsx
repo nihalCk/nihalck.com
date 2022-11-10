@@ -11,7 +11,7 @@ const Footer = () => {
         NihalCk
       </a>
 
-      <ul className="permalinks">
+      {/* <ul className="permalinks">
         <li>
           <a href="#">Home</a>
         </li>
@@ -29,11 +29,11 @@ const Footer = () => {
         </li>
         {/* <li>
           <a href="#testimonials">Testimonials</a>
-        </li> */}
+        </li> 
         <li>
           <a href="#contacts">Contacts</a>
         </li>
-      </ul>
+      </ul> */}
 
       <div className="footer__socials">
         <a href="https::/facebook.com">
