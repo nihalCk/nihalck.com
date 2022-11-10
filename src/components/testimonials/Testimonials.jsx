@@ -25,7 +25,7 @@ const data = [
     avatar: AVTR2,
     name: "Ernest Achiever",
     review:
-      "Lorem ipsum dolor sit amet consecteturex alias porro excepturi ad ratione aut,eveniet quidem est totam modi aperiam exercitationem inventore? Quod, animi."
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus at adipisci illo voluptatibus ex alias porro excepturi ad ratione aut,eveniet quidem est totam modi aperiam exercitationem inventore? Quod, animi."
   },
   {
     avatar: AVTR3,
@@ -58,6 +58,7 @@ const Testimonials = () => {
         scrollbar={{ draggable: true }}
         onSwiper={(swiper) => console.log(swiper)}
         onSlideChange={() => console.log("slide change")}
+        loop={true}
       >
         {data.map(({ avatar, name, review }, index) => {
           return (

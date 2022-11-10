@@ -1,32 +1,30 @@
 import React from "react";
-import "./styles.css";
 
-import Header from "./components/Header/Header";
-import Nav from "./components/nav/nav";
-import About from "./components/about/About";
-import Experience from "./components/experience/Experience";
-// import Services from "./components/services/Services";
-import Portfolio from "./components/portfolio/Portfolio";
-import Testimonials from "./components/testimonials/Testimonials";
-import Contact from "./components/contact/Contact";
-import Footer from "./components/footer/Footer";
+import { Route, Routes } from "react-router-dom";
+import Home from "./routes/Home";
+import About from "./routes/About";
+import Experience from "./routes/Experience";
+import Contact from "./routes/Contact";
+import Portfolio from "./routes/Portfolio";
+// import PortraitesPageTwo from "./routes/PortraitesPageTwo";
+// import Filims from "./routes/Filims";
 
-export default function App() {
+
+
+function App() {
   return (
     <>
-      <Header />
-      <Nav />
-      <About />
-      <Experience />
-      {/* <Services /> */}
-      <Portfolio />
-      <Testimonials />
-      <Contact />
-      <Footer />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/experience" element={<Experience />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+        {/*<Route path="/portraitesPageTwo" element={<PortraitesPageTwo />} />
+        <Route path="/filims" element={<Filims />} /> */}
+      </Routes>
     </>
-    // <div className="App">
-    //   <h1>Hello CodeSandbox</h1>
-    //   <h2>Start editing to see some magic happen!</h2>
-    // </div>
   );
 }
+
+export default App;
