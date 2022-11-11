@@ -7,7 +7,7 @@ import Nav from "../components/nav/nav";
 // import Experience from "../components/experience/ExperiencePage";
 // import Services from "./components/services/Services";
 // import Portfolio from "../components/portfolio/PortfolioPage";
-// import Testimonials from "../components/testimonials/Testimonials";
+import Testimonials from "../components/testimonials/Testimonials";
 // import Contact from "../components/contact/ContactPage";
 import Footer from "../components/footer/Footer";
 
@@ -19,9 +19,9 @@ export default function App() {
       {/* <About />
       <Experience />
       {/* <Services /> 
-      <Portfolio />
+      <Portfolio />*/}
       <Testimonials />
-      <Contact /> */}
+      {/* <Contact />  */}
       <Footer />
     </>
     // <div className="App">
